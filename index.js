@@ -62,9 +62,9 @@
 
 // 3 - masala
 // let n = 20
-// let faktor=1
+// let faktor=1n
 
-// for (let i = 1; i <= n; i++) {
+// for (let i = 1n; i <= n; i++) {
 // faktor=faktor*i;
 
 // console.log(faktor);
