@@ -88,7 +88,6 @@
 
 // 7-masala
 // let n = 100
-
 // for (let i = 1; i <= n; i++){
 //     if (i % 7 == 0 && i % 5 !== 0) {
 //         console.log(i);
@@ -96,7 +95,6 @@
 //     }
 
 // 8-masala
-
 // let n = + prompt("son")
 // let result = 0;
 // for (let i = 1; i <= n; i++) {
